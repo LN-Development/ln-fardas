@@ -7,7 +7,7 @@
 
 
 # Fardas desenvolvimento
-EB
+
 Comandos, FE, B-LOG e mais.
 
   ![image](https://github.com/LN-Development/ln-fardas/assets/123782375/795758ee-4108-45b3-ac40-6cd56666ef5a)
